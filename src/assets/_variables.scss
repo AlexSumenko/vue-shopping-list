@@ -1,0 +1,23 @@
+// BASE COLORS
+
+$shl-color--white: white;
+$shl-color--black: black;
+$shl-color--blue: rgba(0, 140, 255, 1);
+$shl-color--green: rgba(0, 140, 22, 0.4);
+$shl-color--backdrop: rgba(0, 0, 0, 0.75);
+
+// DIMENSIONS
+
+$shl-max-body-width: 1366px;
+$shl-min-body-width: 320px;
+
+// Z INDEX
+
+$shl-index--dialog: 20;
+$shl-index--backdrop: 10;
+$shl-index--header: 5;
+$shl-index--input: 3;
+
+// OTHER
+
+$shl-border-radius: 0.25rem;
