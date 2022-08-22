@@ -32,7 +32,7 @@ const { headerLabel, isAuthenticated, logout, signinLabel, signoutLabel } =
 .navbar {
     background-color: $shl-color--blue;
     color: $shl-color--black;
-    height: 3rem;
+    height: 5rem;
     position: sticky;
     z-index: $shl-index--header;
     top: 0;
